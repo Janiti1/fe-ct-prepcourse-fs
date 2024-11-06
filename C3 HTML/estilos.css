@@ -1,0 +1,22 @@
+body {
+    background-color: darkgrey;
+}
+
+.title {
+    color: aliceblue;
+    background-color: black;
+    font-size: 30px;
+}
+
+.buscador {
+    font-size: 30px;
+}
+
+#cabeza {
+    font-size: 50px;
+}
+
+#seccion-de-noticias {
+    background-color: chartreuse;
+    font-size: 40px;
+}
